@@ -75,7 +75,7 @@ const questions = [
       ]
     },
     {
-      "question": "Em HTML, qual separador de linhas",
+      "question": "Em HTML, qual tag é usada para quebra de linhas?",
       "answers": [
         {
           "answer": "<br>",
@@ -90,7 +90,7 @@ const questions = [
           "correct": false
         },
         {
-          "answer": "/",
+          "answer": "<i>",
           "correct": false
         },
       ]
